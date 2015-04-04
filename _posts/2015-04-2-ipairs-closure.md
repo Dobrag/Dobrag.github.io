@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "lua "
+title: "ipairs vs pairs and closure "
 description: ""
 category: Game
 tags: [Game]
